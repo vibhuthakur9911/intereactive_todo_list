@@ -17,10 +17,10 @@ This is a simple interactive todo list web application built using HTML, CSS, an
 <table><tbody><tr><td><b>git clone https://github.com/your-username/3d-interactive-block.git</b></td></tr></tbody></table>
 
 - 2 Open `index.html`: Open the index.html file in your preferred web browser to view the 3D interactive block in action.
-- 3. Use the input field to add new tasks.
-- 4. Check the checkbox to mark tasks as completed.
-- 5. Click on the "Edit" or "Delete" buttons to perform respective actions.
-- 6. Use the tabs to navigate between different task sections.
+- 3 Use the input field to add new tasks.
+- 4 Check the checkbox to mark tasks as completed.
+- 5 Click on the "Edit" or "Delete" buttons to perform respective actions.
+- 6 Use the tabs to navigate between different task sections.
   
 ### Usage
 Feel free to use and modify this project according to your needs. Here are a few ways you can customize it:
