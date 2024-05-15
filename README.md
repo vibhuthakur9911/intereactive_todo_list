@@ -14,7 +14,7 @@ This is a simple interactive todo list web application built using HTML, CSS, an
 
 
 - 1 Clone the Repository: Clone this repository to your local machine using the following command:
-<table><tbody><tr><td><b>git clone https://github.com/your-username/3d-interactive-block.git</b></td></tr></tbody></table>
+<table><tbody><tr><td><b>git clone https://github.com/vibhuthakur9911/intereactive_todo_list.git</b></td></tr></tbody></table>
 
 - 2 Open `index.html`: Open the index.html file in your preferred web browser to view the 3D interactive block in action.
 - 3 Use the input field to add new tasks.
