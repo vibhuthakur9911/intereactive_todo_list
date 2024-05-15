@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tabs {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.tabs button {
+    background-color: #f0f0f0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px 5px 0 0;
+}
+
+.tabs button.active {
+    background-color: #a50a0a;
+    color: #fff;
+}
+
+#taskInput {
+    margin-bottom: 20px;
+}
+
+#taskInput input[type="text"] {
+    padding: 10px;
+    width: 70%;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+#taskInput button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #a50a0a;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.task-item input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.task-item button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.task-item button.bg-green {
+    background: #0b9c02;
+}
+.button_div button {
+    margin: 0 8px;
+}
