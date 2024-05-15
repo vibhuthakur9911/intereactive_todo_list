@@ -25,6 +25,9 @@ This is a simple interactive todo list web application built using HTML, CSS, an
 ### Usage
 Feel free to use and modify this project according to your needs. Here are a few ways you can customize it:
 
+## Screenshot
+
+<table><tbody><tr><td><img src="screenshot.png"></td></tr></tbody></table>
 
 ## Acknowledgements
 
