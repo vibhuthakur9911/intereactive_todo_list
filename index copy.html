@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Todo List</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Todo List</h1>
+        <div class="tabs">
+            <button id="allTasksBtn" class="active">All Tasks</button>
+            <button id="pendingTasksBtn">Pending Tasks</button>
+            <button id="completedTasksBtn">Completed Tasks</button>
+        </div>
+        <div id="taskInput">
+            <input type="text" id="task" placeholder="Enter a new task">
+            <button id="add_task">Add Task</button>
+        </div>
+        <ul id="taskList" class="task-list">
+            <!-- Tasks will be dynamically added here -->
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
